@@ -1,2 +1,2 @@
 # mgmt467-analytics-portfolio
-mgmt467-analytics-portfolio
+This is a repository to display my work for MGMT 467: AI-Assisted Big Data Analytics in the Cloud. This repository holds files for labs, assignments, and final project. The subjects of the labs differ from AI-assisted analytics to BigQuery machine learning to data engineering. The assignments are team projects that consist of research notebooks, executive briefs, visualizations, and documentation.   
